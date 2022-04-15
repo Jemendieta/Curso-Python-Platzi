@@ -1,5 +1,5 @@
 # CURSO DE PYTHON DE PLATZI - DE BÁSICO A AVANZADO
-![Pyhton](img.png)
+![Pyhton](python.jpeg)
 ---
 
 **01** **Curso Básico de Python**
