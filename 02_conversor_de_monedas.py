@@ -1,4 +1,5 @@
-# PROGRAMA PARA CONVERTIR MONEDAS - SOLES A DOLARES
+#* PROGRAMA PARA CONVERTIR MONEDAS - SOLES A DOLARES
+
 # soles = input("¿Cuántos soles quieres convertir?: ")
 # soles = float(soles)#con float convertimos el valor de soles a decimal
 # valor_dolar = 3.75
@@ -7,7 +8,7 @@
 # dolares = str(dolares)#convertimos el valor de dolares a string
 # print("Tienes $" + dolares + " dolares")
 
-# CONVERTIR DOLARES A SOLES
+#* CONVERTIR DOLARES A SOLES
 
 # dolar = input("¿Cuántos dolares quieres convertir?: ")
 # dolar = float(dolar) # convertimos el valor a decimal
@@ -17,7 +18,7 @@
 # sol = str(sol)# convertimos a string
 # print("Tienes S/ "+ sol + " soles")
 
-# MONEDAS DE VARIOS PAISES
+#* MONEDAS DE VARIOS PAISES
 
 # escribiendo tres pares de comillas dobles podemos colocar varias lineas string
 # menu = """
@@ -58,7 +59,7 @@
 # else:
 #   print("ingrese una opción entre 1 y 3")
 
-# Realizaremos el mismo ejercicio pero ahora con funciones para modularizar nuestro programa
+#* Realizaremos el mismo ejercicio pero ahora con funciones para modularizar nuestro programa
 
 def conversor(tipo_moneda, valor_dolar):
   pesos = input("¿Cuántos pesos " + tipo_moneda + " quieres convertir?: ")

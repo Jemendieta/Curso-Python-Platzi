@@ -1,1 +1,1 @@
-# Proyecto con números palíndromos
+#* Proyecto con números palíndromos.

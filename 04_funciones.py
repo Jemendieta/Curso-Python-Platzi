@@ -1,4 +1,4 @@
-#  FUNCIONES EN PYTHON
+#*  FUNCIONES EN PYTHON
 # Estas nos permiten ahorrar líneas de código, principalmente donde tenemos secuencias que se repiten
 # para declarar funciones lo hacemos medianrte la palabra reservada def
 # def imprimir_mensaje():
@@ -7,7 +7,7 @@
 
 # imprimir_mensaje()# de estoa forma invocamos una función en Python
 
-# Trabajando con parámetros
+#* Trabajando con parámetros
 
 # def conversacion(mensaje):
 #   print("hola")
@@ -25,7 +25,7 @@
 # else:
 #   print("Escribe una opción correcta")
 
-# Ejercicio de suma
+#* Ejercicio de suma
 
 def suma(a,b):
   print("Se suman dos números")

@@ -1,9 +1,9 @@
-#1 Mi Carrrera en Python
+#* 1 Mi Carrrera en Python
 
 # print('Hola Jorge desde Python')
 # print(25**(1/2))
 
-#2 Trabajando con operaciones mateméticas
+#* 2 Trabajando con operaciones mateméticas
 
 # print(5 + 5) 
 # print(5 - 5)
@@ -15,7 +15,7 @@
 # print( 25 ** (1/2)) #Raíz cuadrada
 
 
-#3 Trabajando con Variables en Python
+#* 3 Trabajando con Variables en Python
 
 # Una variable es una caja o lugar en donde puedo guardar objetos: numeros, textos, etc.
 # El identificador de mi variable no puede comenzar con un número y debe estar en minúsculas.
@@ -26,7 +26,7 @@
 # print(numero1 + numero2)
 # print(numero1 * numero2)
 
-#4 Tipos de datos primitivs en Python
+#* 4 Tipos de datos primitivs en Python
 
 # números enteros
 # edad = 35 
@@ -47,7 +47,7 @@
 # trabaja = False
 # print(trabaja)
 
-#5 Convertir un dato a un tipo diferente
+#* 5 Convertir un dato a un tipo diferente
 
 # n1 = input("Escribe un número: ")# Esto nos pedirá ingresar un número y luego al 
 # #llamar a la variable nos devolvera el número ingresado como un string.
@@ -64,7 +64,7 @@
 # str(numero_decimal)# con esto convertimos un número a un string con la función str
 # print(numero_decimal)
 
-#6 Operadores lógicos de comparación (and, or, not)
+#* 6 Operadores lógicos de comparación (and, or, not)
 
 # es_estudiante = True
 # trabaja = False

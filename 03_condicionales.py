@@ -1,5 +1,5 @@
-# CONDICIONALES
-# Ejemplo 01
+#}* CONDICIONALES
+#* Ejemplo 01
 # edad = int(input("Escribe tu edad: "))
 # if edad > 17:
 #   # pass #con pass indicamos que luego agregaremos nuestro código
@@ -7,7 +7,7 @@
 # else:
 #   print("Eres menor de edad")
 
-# Ejemplo 02
+#* Ejemplo 02
 
 numero = int(input("Escribe un número: "))
 if numero > 5:

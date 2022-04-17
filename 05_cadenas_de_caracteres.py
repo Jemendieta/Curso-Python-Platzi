@@ -1,6 +1,6 @@
-#  CADENAS DE CARACTERES EN PYTHON
+#* CADENAS_DE_CARACTERES_EN_PYTHON
 
-# Métodos: 
+#* Métodos: 
 
 # nombre = input("¿Cuál es tu nombre?: ")
 # # al ingresar nuestro nombre es probable que hayamos colocado la priemra letra en minúsculas, esto podemos corregirlo, hacemos lo siguiente
@@ -16,7 +16,7 @@
 # print(letra)
 # print(len(nombre)) # con len mostramos la cantidad de caractereres de mi cadena de texto
 
-# SLICES o Revanadas: lo que nos permite esto es separar en partes mas pequeñas las cadenas de texto
+# *SLICES o Revanadas: lo que nos permite esto es separar en partes mas pequeñas las cadenas de texto
 
 nombre = "Enrique"
 print(nombre[0:3]) # con esto le decimos a la varible que tomaremos desde el primer índice hasta antes del tercero, es decir nos mostraría Enr
