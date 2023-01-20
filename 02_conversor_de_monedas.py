@@ -87,3 +87,7 @@ elif opcion == 3:
   conversor("Argentinos", 65)
 else:
   print("Elige una opción válida")
+
+numeroA = 3
+numeroB = 4
+
